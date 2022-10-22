@@ -1,0 +1,65 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net5.0": []
+  },
+  "packageFolders": {
+    "/Users/tarunmahajan/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/tarunmahajan/Coding/DotnetProjects/texttospeech/texttospeech.csproj",
+      "projectName": "texttospeech",
+      "projectPath": "/Users/tarunmahajan/Coding/DotnetProjects/texttospeech/texttospeech.csproj",
+      "packagesPath": "/Users/tarunmahajan/.nuget/packages/",
+      "outputPath": "/Users/tarunmahajan/Coding/DotnetProjects/texttospeech/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/tarunmahajan/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
